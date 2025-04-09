@@ -1,0 +1,16 @@
+# Archivos de VS y binarios
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+*.vcxproj.*
+*.vssscc
+
+# Binarios y carpetas de compilación
+bin/
+obj/
+
+# Otros temporales
+*.log
+*.vsidx
